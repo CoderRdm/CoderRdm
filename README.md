@@ -1,17 +1,14 @@
 # 👋 Hi, I'm CoderRdm
 
 <div align="center">
+Full Stack Developer  | Problem Solver
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Problem+Solver)
-
-[![GitHub followers](https://img.shields.io/github/followers/CoderRdm?style=social)](https://github.com/CoderRdm)
-[![GitHub stars](https://img.shields.io/github/stars/CoderRdm?style=social)](https://github.com/CoderRdm)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/CoderRdm?style=social)](https://github.com/CoderRdm)
+[![GitHub stars](https://img.shields.io/github/stars/CoderRdm?style=social)](https://github.com/CoderRdm) -->
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me
 
@@ -33,21 +30,13 @@ I'm a **versatile developer** passionate about creating **impactful solutions** 
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**JavaScript** • **Solidity** • **HTML5** • **CSS3** • **EJS**
 
 ### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white)
+**Node.js** • **Express.js** • **EJS Templates** • **Web3.js**
 
 ### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+**Git** • **GitHub** • **Docker** • **VS Code** • **Blockchain** • **Smart Contracts**
 
 </div>
 
@@ -68,18 +57,12 @@ I'm a **versatile developer** passionate about creating **impactful solutions** 
 
 </div>
 
-### 🎯 Project Highlights
+### 🎯 My Focus Areas
 
-```javascript
-const myProjects = {
-  blockchain: ["Smart Contracts", "DeFi Applications", "Token Development"],
-  webDevelopment: ["Full Stack Apps", "E-commerce Solutions", "Responsive Design"],
-  automation: ["Task Automation", "Productivity Tools", "API Integration"],
-  security: ["Authentication Systems", "OTP Generation", "Secure Coding"]
-};
-
-console.log("Building the future, one commit at a time! 🚀");
-```
+**🔗 Blockchain:** Smart Contracts • DeFi Applications • Token Development  
+**🌐 Web Development:** Full Stack Apps • E-commerce Solutions • Responsive Design  
+**🤖 Automation:** Task Automation • Productivity Tools • API Integration  
+**🔐 Security:** Authentication Systems • OTP Generation • Secure Coding
 
 ---
 
