@@ -1,82 +1,176 @@
-# 👋 Hi, I’m CoderRdm
+# 👋 Hi, I'm CoderRdm
 
-Welcome to my GitHub profile! I’m a versatile developer who loves creating impactful solutions across various domains—from blockchain and automation to web development, e-commerce, and tutorials. My repositories (both public and private) reflect my dedication to learning, building, and sharing code.
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Blockchain+Enthusiast;Open+Source+Contributor;Problem+Solver)
+
+[![GitHub followers](https://img.shields.io/github/followers/CoderRdm?style=social)](https://github.com/CoderRdm)
+[![GitHub stars](https://img.shields.io/github/stars/CoderRdm?style=social)](https://github.com/CoderRdm)
+
+</div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🚀 About Me
 
-I'm passionate about:
-- Developing robust web applications and backend services.
-- Experimenting with blockchain technology, smart contracts, and e-commerce solutions.
-- Automating tasks to boost productivity.
-- Constant learning and contributing to the open source community.
+I'm a **versatile developer** passionate about creating **impactful solutions** across various domains:
 
-I actively work on projects ranging from innovative collaborations to educational tutorials.
+- 🔗 **Blockchain Technology** & Smart Contracts
+- 🤖 **Automation** & Productivity Tools  
+- 🌐 **Full Stack Web Development**
+- 🛍️ **E-commerce Solutions**
+- 📚 **Educational Content** & Tutorials
+- 🔓 **Open Source Contributions**
 
----
-
-## 📂 My Repositories
-
-Here’s a comprehensive look at all my repositories:
-
-### Public Projects
-- **[sparkathon](https://github.com/CoderRdm/sparkathon)**  
-  A cutting-edge blockchain project showcasing my skills in smart contracts and decentralized apps.
-  
-- **[otp-generator](https://github.com/CoderRdm/otp-generator)**  
-  A secure One-Time Password (OTP) generator built with JavaScript, focusing on authentication and security.
-
-- **[fibv](https://github.com/CoderRdm/fibv)**  
-  A creative web application project built primarily using EJS and related technologies.
-
-- **[e-commerce](https://github.com/CoderRdm/e-commerce)**  
-  An e-commerce project that demonstrates my abilities to build and manage online storefronts and shopping experiences.
-
-- **Placement**  
-  A project dedicated to developing tools and resources for placement and career preparation.
-
-- **post**  
-  A project built with EJS that explores dynamic web rendering and content management.
-
-- **Portal**  
-  A versatile web portal project focused on providing streamlined navigation and enhanced user experience.
-
-- **Walmart**  
-  A demonstrative HTML-based project that delves into front-end design and interactive UI elements.
-
-
-For an up-to-date view of all my repositories, please visit my [GitHub Repositories](https://github.com/CoderRdm?tab=repositories).
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Solidity, HTML, CSS, EJS
-- **Frameworks/Tools:** Node.js, Express, Git, GitHub, Docker, VSCode
-- **Interests:** Blockchain, Automation, Backend Development, E-commerce, Open Source Collaboration
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
 
 ---
 
-## 🤝 Open to Collaboration & Open Source
+## 📂 Featured Projects
 
-I am passionate about contributing to open source projects and collaborating with developers around the globe. If you have a project idea, need assistance, or just want to brainstorm, feel free to get in touch by raising an issue or connecting through my social channels.
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| 🔗 **[Sparkathon](https://github.com/CoderRdm/sparkathon)** | Cutting-edge blockchain project with smart contracts & DApps | Solidity, Web3, JavaScript | ✅ Active |
+| 🔐 **[OTP Generator](https://github.com/CoderRdm/otp-generator)** | Secure authentication solution with OTP generation | JavaScript, Security | ✅ Complete |
+| 🛍️ **[E-Commerce](https://github.com/CoderRdm/e-commerce)** | Full-featured online shopping platform | Node.js, Express, EJS | 🚀 Live |
+| 🌐 **[FIBV](https://github.com/CoderRdm/fibv)** | Dynamic web application with modern UI/UX | EJS, CSS, JavaScript | ✅ Complete |
+| 💼 **[Placement Portal](https://github.com/CoderRdm/Placement)** | Career preparation and placement resources | HTML, CSS, JavaScript | 📚 Educational |
+| 🏪 **[Walmart Clone](https://github.com/CoderRdm/Walmart)** | Interactive front-end design showcase | HTML, CSS, JavaScript | 🎨 Demo |
+
+</div>
+
+### 🎯 Project Highlights
+
+```javascript
+const myProjects = {
+  blockchain: ["Smart Contracts", "DeFi Applications", "Token Development"],
+  webDevelopment: ["Full Stack Apps", "E-commerce Solutions", "Responsive Design"],
+  automation: ["Task Automation", "Productivity Tools", "API Integration"],
+  security: ["Authentication Systems", "OTP Generation", "Secure Coding"]
+};
+
+console.log("Building the future, one commit at a time! 🚀");
+```
 
 ---
 
-## 📫 Get In Touch
+## 📊 GitHub Analytics
 
-- **Email:** [goyalridam2005@gmail.com]
-- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/ridam-goyal-393b792a4)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CoderRdm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderRdm&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRdm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderRdm&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
+
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 Achievements & Contributions
 
-![CoderRdm's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderRdm&show_icons=true&theme=radical)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CoderRdm&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 🎯 Current Focus
+- 🔥 Building innovative blockchain solutions
+- 🌱 Contributing to open source projects  
+- 📖 Learning advanced smart contract development
+- 🤝 Collaborating with global developer community
 
 ---
 
-<p align="center">
-  <b>Thank you for visiting my profile! Let’s connect and build something amazing together.</b>
-</p>
+## 🤝 Open Source & Collaboration
+
+<div align="center">
+
+### 💡 "*Collaboration is the key to innovation*"
+
+I'm passionate about **open source** and always looking for exciting projects to contribute to!
+
+**🔍 Looking for:**
+- Blockchain & DeFi projects
+- Full-stack web applications  
+- Developer tools & automation
+- Educational initiatives
+
+**💪 I can help with:**
+- Smart contract development
+- Backend API development
+- Frontend user interfaces
+- Code reviews & optimization
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+### Ready to build something amazing together? 🚀
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goyalridam2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridam-goyal-393b792a4)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoderRdm)
+
+### 📧 **Email:** goyalridam2005@gmail.com
+### 💼 **LinkedIn:** [linkedin.com/in/ridam-goyal-393b792a4](https://linkedin.com/in/ridam-goyal-393b792a4)
+
+---
+
+### 🌟 Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=CoderRdm&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+![Repositories](https://img.shields.io/badge/Total%20Repos-8+-blue?style=for-the-badge)
+![Years Active](https://img.shields.io/badge/Years%20Active-2+-green?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 "Code with passion, build with purpose, share with community"
+
+**⭐ Star my repositories if you find them helpful!**  
+**🤝 Let's collaborate and build the future together!**
+
+---
+
+*Thank you for visiting my profile! Happy coding! 💻✨*
+
+</div>
