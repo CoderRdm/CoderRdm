@@ -64,35 +64,8 @@ I'm a **versatile developer** passionate about creating **impactful solutions** 
 **🤖 Automation:** Task Automation • Productivity Tools • API Integration  
 **🔐 Security:** Authentication Systems • OTP Generation • Secure Coding
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CoderRdm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderRdm&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderRdm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderRdm&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
-
-</div>
-
----
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CoderRdm&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-### 🎯 Current Focus
-- 🔥 Building innovative blockchain solutions
-- 🌱 Contributing to open source projects  
-- 📖 Learning advanced smart contract development
-- 🤝 Collaborating with global developer community
 
 ---
 
@@ -133,26 +106,8 @@ I'm passionate about **open source** and always looking for exciting projects to
 ### 📧 **Email:** goyalridam2005@gmail.com
 ### 💼 **LinkedIn:** [linkedin.com/in/ridam-goyal-393b792a4](https://linkedin.com/in/ridam-goyal-393b792a4)
 
----
 
-### 🌟 Quick Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=CoderRdm&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![Repositories](https://img.shields.io/badge/Total%20Repos-8+-blue?style=for-the-badge)
-![Years Active](https://img.shields.io/badge/Years%20Active-2+-green?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 "Code with passion, build with purpose, share with community"
-
-**⭐ Star my repositories if you find them helpful!**  
-**🤝 Let's collaborate and build the future together!**
-
----
 
 *Thank you for visiting my profile! Happy coding! 💻✨*
 
